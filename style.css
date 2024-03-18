@@ -1,2 +1,32 @@
+body {
+            background-image: url(Screenshot_20240318-143252_Google.jpg );
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover ; 
+            background-position: center;
+        }
+	.img{ 
+        background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: 250px;
+            background-position: center;
+	}
+  . audio {
+            display: block;
+            margin: 10px auto;
+            width: 300px;
+        }
+    p{font-size: 130%;
+      
+   .container {
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color:rgba(255,255,255,0.65);
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+
 
 
